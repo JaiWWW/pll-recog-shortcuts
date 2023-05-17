@@ -15,6 +15,6 @@ If you select a group such as R, and before pressing a or b you decide it's actu
 
 ### Notes
 
-This script is not case-sensitive, it will work with capslock or the shift key held down.
-Any key that is not a case, group or delete function will be ignored.
+This script is not case-sensitive, it will work with capslock or the shift key held down.  
+Any key that is not a group, exact case or delete function will be ignored.  
 If you select a group, the only keys that will have any effect are a and b, c and d if the group is G, and the three delete function keys.
