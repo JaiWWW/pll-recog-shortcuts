@@ -7,7 +7,7 @@ Tested with Tampermonkey on Firefox.
 
 ## How to use
 
-This script adds keyboard shortcuts to the quiz, so you can use your keyboard to answer the training questions instead of finding and mousing over the the buttons.
+This script adds keyboard shortcuts to [the quiz](https://speedcubedb.com/t/pllrecog), so you can use your keyboard to answer the training questions instead of finding and mousing over the the buttons.
 
 If you want to guess a PLL that's part of a group, eg. Ub, first you will press your U key, and then the group selection indicator under the timer will show the letter U. From there, simply press b on your keyboard to guess the Ub case.
 
