@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PLLrecog shortcuts
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Adds keyboard shortcuts to Gil Zussman's PLL recog quiz
 // @author       JaiWWW
 // @license      GPL-3.0
