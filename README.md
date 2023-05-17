@@ -3,7 +3,7 @@
 Tested with Tampermonkey on Firefox.
 
 ## Installation
-> To install this script, make sure you have Tampermonkey (may or may not work with other script managers) and then click [here](https://github.com/JaiWWW/JPDB-Export/raw/main/pll-recog-shortcuts.user.js), or click <ins>pll-recog-shortcuts.user.js</ins> above and then click the **Raw** button.
+> To install this script, make sure you have Tampermonkey (may or may not work with other script managers) and then click [here](https://github.com/JaiWWW/pll-recog-shortcuts/raw/main/pll-recog-shortcuts.user.js), or click <ins>pll-recog-shortcuts.user.js</ins> above and then click the **Raw** button.
 
 ## How to use
 
