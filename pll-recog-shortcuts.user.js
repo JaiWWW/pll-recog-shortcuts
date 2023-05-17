@@ -14,7 +14,7 @@
 // @grant        none
 // ==/UserScript==
 
-`
+/*
 
 How to use this script:
 
@@ -31,11 +31,11 @@ actually a different PLL, you can press either backspace, delete or escape to
 return to the default selection mode (represented by the - character).
 
 Notes: this script is not case-sensitive, it will work with capslock or the shift
-key held down. Any key that is not a case, group or delete function will be
+key held down. Any key that is not a group, exact case or delete function will be
 ignored. If you select a group, the only keys that will have any effect are
 a and b, c and d if the group is G, and the three delete function keys.
 
-`
+*/
 
 (function() {
     'use strict';
